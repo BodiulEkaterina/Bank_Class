@@ -1,0 +1,14 @@
+E:\ДО и учеба\C#\Bank_Acc\bin\Debug\net8.0\Bank_Acc.exe
+E:\ДО и учеба\C#\Bank_Acc\bin\Debug\net8.0\Bank_Acc.deps.json
+E:\ДО и учеба\C#\Bank_Acc\bin\Debug\net8.0\Bank_Acc.runtimeconfig.json
+E:\ДО и учеба\C#\Bank_Acc\bin\Debug\net8.0\Bank_Acc.dll
+E:\ДО и учеба\C#\Bank_Acc\bin\Debug\net8.0\Bank_Acc.pdb
+E:\ДО и учеба\C#\Bank_Acc\obj\Debug\net8.0\Bank_Acc.GeneratedMSBuildEditorConfig.editorconfig
+E:\ДО и учеба\C#\Bank_Acc\obj\Debug\net8.0\Bank_Acc.AssemblyInfoInputs.cache
+E:\ДО и учеба\C#\Bank_Acc\obj\Debug\net8.0\Bank_Acc.AssemblyInfo.cs
+E:\ДО и учеба\C#\Bank_Acc\obj\Debug\net8.0\Bank_Acc.csproj.CoreCompileInputs.cache
+E:\ДО и учеба\C#\Bank_Acc\obj\Debug\net8.0\Bank_Acc.dll
+E:\ДО и учеба\C#\Bank_Acc\obj\Debug\net8.0\refint\Bank_Acc.dll
+E:\ДО и учеба\C#\Bank_Acc\obj\Debug\net8.0\Bank_Acc.pdb
+E:\ДО и учеба\C#\Bank_Acc\obj\Debug\net8.0\Bank_Acc.genruntimeconfig.cache
+E:\ДО и учеба\C#\Bank_Acc\obj\Debug\net8.0\ref\Bank_Acc.dll
